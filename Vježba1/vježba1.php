@@ -1,4 +1,5 @@
 <?php
+//ovo je komentar
 abstract class Djevojka
 {
     public $karakteristika1;
